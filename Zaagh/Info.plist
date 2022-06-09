@@ -36,9 +36,9 @@
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>FacebookAppID</key>
-	<string>246240310908626</string>
+	<string>[PlaceHolder]</string>
 	<key>FacebookClientToken</key>
-	<string>86cc62ef81a2d1ae88ddf3491aeed1fc</string>
+	<string>[PlaceHolder]</string>
 	<key>FacebookDisplayName</key>
 	<string>Zaagh</string>
 	<key>LSApplicationQueriesSchemes</key>
